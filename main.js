@@ -1,5 +1,5 @@
 const messages = [
-"Hi Nicole I'm sorry for what I've done to you over the past 2 years ,like avoiding you. I'm not avoiding you because I didn't like you or anything, I'm avoiding you because Im shy to talk with you. I know things might be different now, but I hope you're doing well. I hope you forgive me."
+"Hi Nicolay I'm sorry for what I've done to you over the past 2 years ,like avoiding you. I'm not avoiding you because I didn't like you or anything, I'm avoiding you because Im shy to talk with you. I know things might be different now, but I hope you're doing well. I hope you forgive me."
 ];
 
 const letterEl = document.getElementById("letter");
